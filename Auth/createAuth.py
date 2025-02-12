@@ -64,6 +64,6 @@ def _retAuth(authurl, auth_data):
 
 
 if __name__ == "__main__":
-    key_id = "0165ec6a96ab49238013821b3b4a9792"
-    key_secret = "8594cab6fad14144a7a235d0a72f6de7"
+    key_id = ""
+    key_secret = ""
     get_access_token(key_id, key_secret)
